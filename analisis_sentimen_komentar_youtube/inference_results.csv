@@ -1,0 +1,10 @@
+text,sentiment,confidence
+"Printer ini jelek banget, gampang rusak dan tinta boros",negatif,1.0
+"Kecewa berat sama produk ini, tidak sesuai ekspektasi",negatif,0.9999997615814209
+"Layanan pelanggannya buruk, tidak pernah merespon",negatif,0.9262124300003052
+"Harganya standar saja, tidak murah tidak mahal",positif,0.5991639494895935
+Printer ini bisa dipakai untuk mencetak dokumen sehari-hari,netral,1.0
+"Pengiriman 3 hari sampai, biasa saja",netral,1.0
+Produknya bagus banget! Print nya jernih dan cepat,positif,0.9999995231628418
+"Rekomendasi printer terbaik untuk rumahan, worth it!",positif,1.0
+"Mantap! Gak nyesel beli ini, hasil cetakannya bagus",positif,1.0
